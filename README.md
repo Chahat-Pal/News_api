@@ -1,4 +1,4 @@
-# 📰 News API Fetcher
+# 📰 News API 
 
 ## 📌 Description
 A Python script that fetches real-time news articles based on user interest using the NewsAPI. It displays the latest headlines along with their links in a simple command-line interface.
